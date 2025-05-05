@@ -9,7 +9,7 @@
 #pragma once
 #include "cores/AudioEngine/Interfaces/AESink.h"
 #include "cores/AudioEngine/Utils/AEDeviceInfo.h"
-#include "/xbmc/utils/AMLUtils.h"
+#include "xbmc/utils/AMLUtils.h"
 #include "threads/CriticalSection.h"
 
 #include <stdint.h>
